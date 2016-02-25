@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operavirg03virguoft_0008.png"; bbox 0 0 2436 3984; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 844 3333 1576 3376">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 844 3333 1576 3376">
+     <span class='ocr_line' id='line_1_1' title="bbox 844 3333 1576 3376; baseline 0.02 -15"><span class='ocrx_word' id='word_1_1' title='bbox 844 3333 1030 3365; x_wconf 70' lang='lat' dir='ltr'>LIPSIAE</span> <span class='ocrx_word' id='word_1_2' title='bbox 1057 3339 1190 3368; x_wconf 85' lang='lat' dir='ltr'>TYPIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1214 3344 1255 3370; x_wconf 76' lang='lat' dir='ltr'>P..</span> <span class='ocrx_word' id='word_1_4' title='bbox 1270 3344 1313 3371; x_wconf 88' lang='lat' dir='ltr'>G.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1327 3345 1476 3375; x_wconf 83' lang='lat' dir='ltr'>TEVBN</span> <span class='ocrx_word' id='word_1_6' title='bbox 1482 3348 1576 3376; x_wconf 78' lang='lat' dir='ltr'>EEEE</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

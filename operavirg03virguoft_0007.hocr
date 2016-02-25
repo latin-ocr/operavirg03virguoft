@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operavirg03virguoft_0007.png"; bbox 0 0 2436 3984; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 399 296 2017 416">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 399 296 2017 416">
+     <span class='ocr_line' id='line_1_1' title="bbox 399 296 2017 416; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 399 319 507 416; x_wconf 88' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 571 296 1239 416; x_wconf 78' lang='lat' dir='ltr'><strong>VERGILI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1313 317 2017 416; x_wconf 78' lang='lat' dir='ltr'><strong>MARONIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 176 781 2233 969">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 176 781 2233 969">
+     <span class='ocr_line' id='line_1_2' title="bbox 176 781 2233 969; baseline -0.001 -13"><span class='ocrx_word' id='word_1_4' title='bbox 176 849 985 958; x_wconf 81' lang='lat' dir='ltr'><strong>AENEIDOS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1084 781 1519 957; x_wconf 72' lang='lat' dir='ltr'><strong>Lfflm</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1607 847 2233 969; x_wconf 76' lang='lat' dir='ltr'><strong>VII—XII.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 782 1776 1632 1841">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 782 1776 1632 1841">
+     <span class='ocr_line' id='line_1_3' title="bbox 782 1776 1632 1841; baseline 0 -1"><span class='ocrx_word' id='word_1_7' title='bbox 782 1776 1076 1840; x_wconf 89' lang='grc' dir='ltr'>ΟΤΤΟ</span> <span class='ocrx_word' id='word_1_8' title='bbox 1134 1776 1632 1841; x_wconf 69' lang='grc' dir='ltr'>ΕΙΒΒΕΟΚ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 943 2076 2200 3399">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 943 2076 2200 3399">
+     <span class='ocr_line' id='line_1_4' title="bbox 943 2076 2200 3399; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 943 2076 2200 3399; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
